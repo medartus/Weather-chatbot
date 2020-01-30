@@ -32,6 +32,8 @@ Create a **random Token** for the Facebook **VerifyToken**
 
 ## How to run the server ?
 
+First you must do **npm i**
+
 You can use:
 - **npm run dev** to use nodemon 
 - **npm start** to use node 
