@@ -4,6 +4,7 @@
 
 First you need to create a file for environment variables in **config/** folder.
 
+**development.json**
 ```json
 {
     "FB": {
